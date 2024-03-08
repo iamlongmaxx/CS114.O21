@@ -15,6 +15,13 @@
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
+## GIỚI THIỆU BẢN THÂN
+<a name="gioithieubanthan"></a>
+* **Họ tên**: Hoàng Phạm Bảo Long
+* **MSSV**: 22520808
+* **Quê quán**: Khánh Hòa
+* **Lớp sinh hoạt**: KHMT2022.2
+* **Sở thích**: Nghe nhạc, đọc sách, đá banh
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Máy học - MACHINE LEARNING
